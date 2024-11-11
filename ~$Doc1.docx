@@ -1,0 +1,6 @@
+第一：Terminal Git本地仓库的创建
+1.mkdir learn-git cd learn-gitgit initls更换成ls -a
+learn-git是一个目录名，仓库名，git init是初始化的仓库。Ls看不到git仓库因为是隐藏仓库
+2.远程仓库克隆
+cd..git clone 仓库地址ls -a
+第二：git add.添加所有目录
